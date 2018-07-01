@@ -1,0 +1,85 @@
+import groovy.xml.*
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'scala'
+
+
+
+def sparkVersion = '2.2.0'
+
+version = '1.0-SNAPSHOT'
+
+/* Comment the below two lines of code while running locally */
+// compileJava.options.fork = true
+// compileJava.options.forkOptions.executable = '__JAVAC_EXE_PATH__'
+
+repositories {
+	mavenLocal()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+}
+
+
+eclipse {
+	project {
+		natures 'org.springsource.ide.eclipse.gradle.core.nature'
+	}
+}
+
+jar {
+	baseName = 'base-engine'
+}
+
+configurations {
+	compile.exclude group: "org.jboss.netty", module: "netty"  // Hack to avoid trap because of netty version
+}
+
+dependencies {
+	compile("org.scala-lang:scala-library:2.10.5")
+	compile("org.scalaz:scalaz-core_2.10:7.1.3")
+	compile("org.apache.spark:spark-core_2.10:" + sparkVersion)
+	compile("org.apache.spark:spark-sql_2.10:" + sparkVersion)
+	compile("org.apache.spark:spark-hive_2.10:" + sparkVersion)
+	compile("org.apache.spark:spark-mllib_2.10:" + sparkVersion)
+	compile("com.datastax.spark:spark-cassandra-connector_2.10:1.5.0-RC1")
+	
+	compile("com.databricks:spark-csv_2.10:1.4.0")
+	compile("mysql:mysql-connector-java:5.1.34")
+	compile("org.apache.hadoop:hadoop-common:2.7.0")
+
+	compile("org.apache.commons:commons-io:1.3.2")
+
+	compile("log4j:log4j:1.2.17")
+	
+	compile("com.lmax:disruptor:3.1.0")
+	compile("javax.inject:javax.inject:1")
+	
+	compile("org.apache.zookeeper:zookeeper:3.4.5") {
+		force = true
+	}
+	
+	
+	
+}
+
+
+task generateRebel << {
+	def rebelFile = projectDir.absolutePath + '/src/main/resources/rebel.xml'
+	def writer = new FileWriter(rebelFile)
+	def eclipseBinDir = file('bin')
+	new MarkupBuilder(writer).application() {
+		classpath{
+		dir(name: eclipseBinDir.absolutePath )
+		}
+	}
+}
+
+eclipseClasspath.dependsOn(generateRebel)
+
+compileScala.dependsOn.remove 'compileJava'

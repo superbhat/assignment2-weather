@@ -1,0 +1,687 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+9 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+4 -> -d
+5 -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main
+6 -> -g
+7 -> -proc:none
+8 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+33 items
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/exmple/app/fibo_app$.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/exmple/app/fibo_app.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$2.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$3.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$4.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$5.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator1$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator10$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator11$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator12$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator13$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator14$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator15$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator2$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator3$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator4$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator5$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator6$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator7$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator8$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator9$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$$anonfun$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$$anonfun$2.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$$typecreator2$1.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$Record$.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$Record.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/read_parquet$.class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> /Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/read_parquet.class
+binary dependencies:
+19 items
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/421989aa8f95a05a4f894630aad96b8c7b828732/scala-library-2.10.6.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.10/2.2.0/d9d392b981a5677befe48fe1d2db9f93f451a667/spark-catalyst_2.10-2.2.0.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.10/2.2.0/2be00d7a07c5cd484f915f8a42ad45fd041f1a6e/spark-core_2.10-2.2.0.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.10/2.2.0/f0662247617f9f692f6c8a906203762b54e34974/spark-sql_2.10-2.2.0.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/421989aa8f95a05a4f894630aad96b8c7b828732/scala-library-2.10.6.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.10.6/3259f3df0f166f017ef5b2d385445808398c316c/scala-reflect-2.10.6.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.10/2.2.0/d9d392b981a5677befe48fe1d2db9f93f451a667/spark-catalyst_2.10-2.2.0.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.10/2.2.0/2be00d7a07c5cd484f915f8a42ad45fd041f1a6e/spark-core_2.10-2.2.0.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.10/2.2.0/f0662247617f9f692f6c8a906203762b54e34974/spark-sql_2.10-2.2.0.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/421989aa8f95a05a4f894630aad96b8c7b828732/scala-library-2.10.6.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.10.6/3259f3df0f166f017ef5b2d385445808398c316c/scala-reflect-2.10.6.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.10/2.2.0/d9d392b981a5677befe48fe1d2db9f93f451a667/spark-catalyst_2.10-2.2.0.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.10/2.2.0/2be00d7a07c5cd484f915f8a42ad45fd041f1a6e/spark-core_2.10-2.2.0.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.10/2.2.0/f0662247617f9f692f6c8a906203762b54e34974/spark-sql_2.10-2.2.0.jar
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> /Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/421989aa8f95a05a4f894630aad96b8c7b828732/scala-library-2.10.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> exmple.app.fibo_app
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> exmple.app.fibo_app$
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$anonfun$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$anonfun$2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$anonfun$3
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$anonfun$4
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$anonfun$5
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator1$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator10$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator11$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator12$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator13$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator14$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator15$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator2$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator3$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator4$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator5$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator6$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator7$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator8$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice.ambiata_task$$typecreator9$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> practice.app.spark_hive_eg
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> practice.app.spark_hive_eg$
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> practice.app.spark_hive_eg$$anonfun$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> practice.app.spark_hive_eg$$anonfun$2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> practice.app.spark_hive_eg$$typecreator2$1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> practice.app.spark_hive_eg$Record
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> practice.app.spark_hive_eg$Record$
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> practice.read_parquet
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> practice.read_parquet$
+used names:
+465 items
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> %
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> *
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> +
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> -
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> <
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> <=
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> <init>
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> <repeated>
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> ==
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> A
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Any
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> AnyRef
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Array
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Boolean
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Int
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Integer
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Integer2int
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> List
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Nothing
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Object
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Predef
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> String
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> T1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> T2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Tuple2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> Unit
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> _1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> _2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> a
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> app
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> apply
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> b
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> exmple
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> fact
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> fib1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> fibo_app
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> fizzbuzz
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> i
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> immutable
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> int2Integer
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> java
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> lang
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> n
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> ne
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> println
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> scala
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> x
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $m
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $m$untyped
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator10
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator11
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator12
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator13
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator14
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator15
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator3
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator4
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator5
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator6
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator7
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator8
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $typecreator9
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> $u
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> &&
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> *
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> +
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> -
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> /
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> <init>
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> <repeated>
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ==
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ===
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ?0
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> A1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> A2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> A3
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> A4
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> A5
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Any
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> AnyRef
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Array
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Boolean
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> BuildApi
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Builder
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ClassLoader
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ClassSymbol
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ClassTag
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Column
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> DataFrame
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> DataFrameReader
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> DataType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Dataset
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Double
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> DoubleType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Function2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Function5
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Int
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Integer
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Integer2int
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> IntegerType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> JavaUniverse
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> List
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Long
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> LongType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Metadata
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Mirror
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ModuleSymbol
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Nil
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Nothing
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Object
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Predef
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> RT
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Row
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> SingleType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> SingleTypeExtractor
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Singleton
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> SparkConf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> SparkContext
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> SparkSession
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> String
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> StringOps
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> StringType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> StructField
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> StructType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Symbol
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> T
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> T0
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ThisType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ThisTypeExtractor
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> TimestampType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Type
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> TypeCreator
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> TypeRef
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> TypeRefExtractor
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> TypeSymbol
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> TypeTag
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> U
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Unit
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> Universe
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> UserDefinedFunction
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> _$2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> _$6
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ambiata_task
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> apache
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> appName
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> apply
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> as
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> asInstanceOf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> asModule
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> asType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> augmentString
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> build
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> builder
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> cast
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> col
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> col1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> col2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> col3
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> col4
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> col5
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> col_updt_df_temp
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> col_updt_df_ts
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> column
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> con_dis_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> concat_udf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> config
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> count
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> csv
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> date_format
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> dis_col_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> dis_tra
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> dis_tra_km
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> drop
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> drop_old_col_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> expr
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> filter
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> final_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> final_not_null_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> final_order_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> first
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> format
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> functions
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> getClass
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> getClassLoader
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> getItem
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> getOrCreate
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> immutable
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> input_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> input_req
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> isNull
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> java
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> join
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> lang
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> load
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> location_updt_dtype_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> log_data_join_obs_data_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> materializeClassTag
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> materializeTypeTag
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> math
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> max
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> max_temp
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> mean
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> mean_temp_au
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> mean_temp_fr
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> mean_temp_fr_cel
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> mean_temp_oth
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> mean_temp_us
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> mean_temp_us_cel
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> mean_temperature
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> min
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> min_temp
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> moduleClass
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> new_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> null_rm_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> null_temp_rm_udf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> obs_cnt_au
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> obs_cnt_fr
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> obs_cnt_oth
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> obs_cnt_us
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> obs_dtl_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> option
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> order_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> org
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> output_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> package
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> practice
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> println
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> read
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> readInt
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> reflect
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> runtime
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> runtimeMirror
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> scala
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> schema
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> schema_obs
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> select
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> selectType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> show
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> spark
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> split
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> split_location_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> sql
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> sqrt
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> staticClass
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> staticModule
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> staticPackage
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> sum
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> temp_in_cel_udf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> toDouble
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> toInt
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> toString
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> toTypeConstructor
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> tot_dis_travl_by_globe
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ts_updt_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> types
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> udf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> universe
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> updt_df_with_temp_col_df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> where
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> withColumn
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> withColumnRenamed
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> ||
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> !=
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> $m
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> $m$untyped
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> $typecreator2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> $u
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> &&
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> <init>
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> <repeated>
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> ==
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> ?0
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> A
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> AbstractFunction2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Any
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> AnyRef
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Array
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> B
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Boolean
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Builder
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> CanBuildFrom
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Class
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> ClassLoader
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> ClassSymbol
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Coll
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Column
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> DataFrame
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> DataFrameWriter
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Dataset
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> DoubleType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Encoder
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> File
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Function1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Inclusive
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> IndexOutOfBoundsException
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> IndexedSeq
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Int
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Iterator
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> JavaUniverse
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Long
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> LongType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> MatchError
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Mirror
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> None
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Nothing
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Object
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Option
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Predef
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Product
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Range
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Record
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> RichInt
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Row
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> SQLContext
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> SaveMode
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> ScalaRunTime
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Seq
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Serializable
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Singleton
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Some
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> SparkConf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> SparkContext
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> SparkSession
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Statics
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> String
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> StringContext
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> StringType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> T
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> T0
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> T1
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> T2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> That
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Tuple2
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Type
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> TypeCreator
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> TypeSymbol
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> TypeTag
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> U
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Unit
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> Universe
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> _toString
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> anyHash
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> apache
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> app
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> appName
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> apply
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> asInstanceOf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> asType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> builder
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> canBuildFrom
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> col
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> column
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> config
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> createDataFrame
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> createOrReplaceTempView
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> dataDir
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> df
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> enableHiveSupport
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> eq
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> expr
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> finalizeHash
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> format
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> functions
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> get
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> getAbsolutePath
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> getClass
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> getClassLoader
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> getOrCreate
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> i
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> immutable
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> implicits
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> intWrapper
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> io
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> isEmpty
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> isInstanceOf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> java
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> key
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> lengthCompare
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> map
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> materializeTypeTag
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> mix
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> mode
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> newStringEncoder
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> org
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> package
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> parquet
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> partitionBy
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> practice
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> range
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> recordsDF
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> reflect
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> runtime
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> runtimeMirror
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> s
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> saveAsTable
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> scala
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> setConf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> show
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> spark
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> spark_hive_eg
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> sql
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> sqlContext
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> sqlDF
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> staticClass
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> stop
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> stringsDS
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> table
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> to
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> toString
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> toTypeConstructor
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> typedProductIterator
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> types
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> unapplySeq
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> unary_!
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> universe
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> value
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> warehouseLocation
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> write
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> ||
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> <init>
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> Any
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> AnyRef
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> Array
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> Builder
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> Column
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> DataFrame
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> DataFrameReader
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> DoubleType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> LongType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> Object
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> Predef
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> Row
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> SparkConf
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> SparkContext
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> SparkSession
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> String
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> StringType
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> Unit
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> apache
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> appName
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> builder
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> col
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> column
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> config
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> expr
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> format
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> functions
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> getOrCreate
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> load
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> load_parquet
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> org
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> package
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> practice
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> print_data
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> println
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> read
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> read_parquet
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> scala
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> show
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> spark
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> sql
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> types
+product stamps:
+33 items
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/exmple/app/fibo_app$.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/exmple/app/fibo_app.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$2.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$3.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$4.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$anonfun$5.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator1$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator10$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator11$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator12$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator13$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator14$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator15$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator2$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator3$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator4$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator5$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator6$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator7$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator8$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$$typecreator9$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task$.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/ambiata_task.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$$anonfun$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$$anonfun$2.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$$typecreator2$1.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$Record$.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg$Record.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/app/spark_hive_eg.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/read_parquet$.class -> lastModified(1530451492000)
+/Users/suprabhatsinha/Documents/Projects/Miscll/build/classes/scala/main/practice/read_parquet.class -> lastModified(1530451492000)
+source stamps:
+4 items
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> hash(21bf893c75528e21923d4777470c2634d46c6336)
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> hash(0957bdf360f1721812ce9b04b5dcec158025af4c)
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> hash(ce24439522af6b82edadfb2bc3ad1662825c004e)
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> hash(81f0ffa241db31c490752fe3f827b5374a37c6ca)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1513730554000)
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.10/2.2.0/d9d392b981a5677befe48fe1d2db9f93f451a667/spark-catalyst_2.10-2.2.0.jar -> lastModified(1527083126000)
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.10/2.2.0/2be00d7a07c5cd484f915f8a42ad45fd041f1a6e/spark-core_2.10-2.2.0.jar -> lastModified(1527083149000)
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.10/2.2.0/f0662247617f9f692f6c8a906203762b54e34974/spark-sql_2.10-2.2.0.jar -> lastModified(1527083112000)
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/421989aa8f95a05a4f894630aad96b8c7b828732/scala-library-2.10.6.jar -> lastModified(1527083179000)
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.10.6/3259f3df0f166f017ef5b2d385445808398c316c/scala-reflect-2.10.6.jar -> lastModified(1527083164000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.10/2.2.0/d9d392b981a5677befe48fe1d2db9f93f451a667/spark-catalyst_2.10-2.2.0.jar -> org.apache.spark.sql.types.DoubleType
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.10/2.2.0/2be00d7a07c5cd484f915f8a42ad45fd041f1a6e/spark-core_2.10-2.2.0.jar -> org.apache.spark.SparkConf$
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.10/2.2.0/f0662247617f9f692f6c8a906203762b54e34974/spark-sql_2.10-2.2.0.jar -> org.apache.spark.sql.Column$
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/421989aa8f95a05a4f894630aad96b8c7b828732/scala-library-2.10.6.jar -> scala.Unit
+/Users/suprabhatsinha/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.10.6/3259f3df0f166f017ef5b2d385445808398c316c/scala-reflect-2.10.6.jar -> scala.reflect.api.TypeCreator
+internal apis:
+4 items
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLRXCowAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuQAie3QABm5vdGlmeXNxAH4ADBpblHd0AAR3YWl0c3EAfgAMQilmdnQADSRhc0luc3RhbmNlT2ZzcQB+AAz+7GOXdAAGZXF1YWxzc3EAfgAMk49WqXQADGFzSW5zdGFuY2VPZnNxAH4ADM4cs/50AAxzeW5jaHJvbml6ZWRzcQB+AAyNZgt9dAANJGlzSW5zdGFuY2VPZnNxAH4ADIgPbhl0AARtYWluc3EAfgAMgprL3HQACW5vdGlmeUFsbHNxAH4ADDycpn90AAxpc0luc3RhbmNlT2ZzcQB+AAxxxwxHdAAIZmlib19hcHBzcQB+AAzPh4vHdAACPT1zcQB+AAyEWOIfdAAFY2xvbmVzcQB+AAwntXp8dAAIdG9TdHJpbmdzcQB+AAzC0hwYdAACIT1zcQB+AAznGrkKdAAIZ2V0Q2xhc3NzcQB+AAxxHCH/dAACbmVzcQB+AAxlvFxfdAACZXFzcQB+AAxpARmJdAACIyNzcQB+AAzx+yeUdAAIZmluYWxpemVzcQB+AAxGKbpNdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAATZXhtcGxlLmFwcC5maWJvX2FwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZleG1wbGVzcQB+AKZ0AApleG1wbGUuYXBwc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkVgRSOnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEgvVXNlcnMvc3VwcmFiaGF0c2luaGEvRG9jdW1lbnRzL1Byb2plY3RzL01pc2NsbC9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQhv4k8dVKOIZI9R3dHDCY01GxjNg==
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwO4aMOwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDyZnynQABm5vdGlmeXNxAH4ADOXSNGR0AAR3YWl0c3EAfgAMX7sYBXQADSRhc0luc3RhbmNlT2ZzcQB+AAzSMMrvdAAGZXF1YWxzc3EAfgAMNpMY2HQADGFzSW5zdGFuY2VPZnNxAH4ADL1llFJ0AAxzeW5jaHJvbml6ZWRzcQB+AAxAjjrcdAANJGlzSW5zdGFuY2VPZnNxAH4ADN+A/+p0AARtYWluc3EAfgAMKUXJHXQACW5vdGlmeUFsbHNxAH4ADJufCGR0AAxpc0luc3RhbmNlT2ZzcQB+AAz/ZwkwdAACPT1zcQB+AAzLPrPadAAFY2xvbmVzcQB+AAyZHRjUdAAIdG9TdHJpbmdzcQB+AAz6IEujdAACIT1zcQB+AAzbZuUEdAAIZ2V0Q2xhc3NzcQB+AAw3VW+BdAACbmVzcQB+AAxz93RudAAMYW1iaWF0YV90YXNrc3EAfgAMWZGyBXQAAmVxc3EAfgAMqg3/3XQAAiMjc3EAfgAMzUJDwXQACGZpbmFsaXplc3EAfgAM+sZ+THQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFXByYWN0aWNlLmFtYmlhdGFfdGFza3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhwcmFjdGljZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZFYEUjp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIL1VzZXJzL3N1cHJhYmhhdHNpbmhhL0RvY3VtZW50cy9Qcm9qZWN0cy9NaXNjbGwvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUCVe982DxchgSzpsEtdzsFYAlr0w=
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwaSXSLwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNvP/uHQABm5vdGlmeXNxAH4ADNhEdBF0AAd1bmFwcGx5c3EAfgAMhguNU3QADXNwYXJrX2hpdmVfZWdzcQB+AAy5GtFGdAAHY3VycmllZHNxAH4ADJaGyi50AAR3YWl0c3EAfgAMmUhS1nQADmNvcHkkZGVmYXVsdCQyc3EAfgAMdSZWRXQADSRhc0luc3RhbmNlT2ZzcQB+AAznWv5GdAAMcHJvZHVjdEFyaXR5c3EAfgAMooPcFHQABmVxdWFsc3NxAH4ADNyDFDR0AAxhc0luc3RhbmNlT2ZzcQB+AAy4o9PUdAAMc3luY2hyb25pemVkc3EAfgAM3Zwu7nQADSRpc0luc3RhbmNlT2ZzcQB+AAytiI8PdAAGdHVwbGVkc3EAfgAM0blU6XQACGNhbkVxdWFsc3EAfgAMWoTqB3QABG1haW5zcQB+AAwosiafdAANcHJvZHVjdFByZWZpeHNxAH4ADPA8xV10AAlub3RpZnlBbGxzcQB+AAxqZeP8dAADa2V5c3EAfgAMViaJuXQADGlzSW5zdGFuY2VPZnNxAH4ADNCfi+l0AAY8aW5pdD5zcQB+AAz5aaeAdAAFYXBwbHlzcQB+AAxB9cbPdAACPT1zcQB+AAy4M1r2dAAGUmVjb3Jkc3EAfgAMaEohIHQABWNsb25lc3EAfgAMZR8b5nQABiRpbml0JHNxAH4ADKx2e+l0AARjb3B5c3EAfgAMbMvLQ3QACHRvU3RyaW5nc3EAfgAMqcjUI3QAAiE9c3EAfgAMYwLaQ3QACGdldENsYXNzc3EAfgAM4ufrM3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMVuyR2HQAAm5lc3EAfgAMku2p23QABXZhbHVlc3EAfgAMsO+oJHQAAmVxc3EAfgAMMa4oO3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADM1qtW90AAIjI3NxAH4ADDWgjGV0AAhmaW5hbGl6ZXNxAH4ADI+podN0AA5wcm9kdWN0RWxlbWVudHNxAH4ADCSRqb50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABpwcmFjdGljZS5hcHAuc3BhcmtfaGl2ZV9lZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ae3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIBzcQB+AHt1cQB+AF4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGRxAH4AbXVxAH4AbgAAAABzcQB+AHAAcQB+ACt1cQB+AHMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Af3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJt1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCIeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB2dAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCPWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB/c3EAfgCOdAAFQXJyYXlxAH4AlHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCOdAAGU3RyaW5nc3EAfgCSc3EAfgCVdXEAfgCYAAAAA3NxAH4AmnQABGphdmFzcQB+AJp0AARsYW5ncQB+AJ9zcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXEAfgCzAAAAAnNxAH4AjnQABk9iamVjdHEAfgC3c3EAfgCOdAADQW55cQB+AJR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhwcmFjdGljZXNxAH4AyHQADHByYWN0aWNlLmFwcHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZFYEUjp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIL1VzZXJzL3N1cHJhYmhhdHNpbmhhL0RvY3VtZW50cy9Qcm9qZWN0cy9NaXNjbGwvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUziRDlSKva4Ltrfsrw60WYoJcAE4=
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtReMJgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzcJefnQADHJlYWRfcGFycXVldHNxAH4ADNOlh210AAZub3RpZnlzcQB+AAy4RK1sdAAEd2FpdHNxAH4ADJdhUfh0AA0kYXNJbnN0YW5jZU9mc3EAfgAM6x6iRHQABmVxdWFsc3NxAH4ADLen2bJ0AAxhc0luc3RhbmNlT2ZzcQB+AAwNRNFmdAAMc3luY2hyb25pemVkc3EAfgAMbmhbDXQADSRpc0luc3RhbmNlT2ZzcQB+AAxe0bmldAAEbWFpbnNxAH4ADIGyIgF0AAlub3RpZnlBbGxzcQB+AAxoqBcQdAAMaXNJbnN0YW5jZU9mc3EAfgAMficIkXQAAj09c3EAfgAMzduJAnQABWNsb25lc3EAfgAM9xQAWXQACHRvU3RyaW5nc3EAfgAMfMZXJHQAAiE9c3EAfgAMUDZb+XQACGdldENsYXNzc3EAfgAMQzpd+HQAAm5lc3EAfgAM6PciT3QAAmVxc3EAfgAM+TvqiXQAAiMjc3EAfgAM/L0dMnQACGZpbmFsaXplc3EAfgAM/KLT6HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFXByYWN0aWNlLnJlYWRfcGFycXVldHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB91cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhwcmFjdGljZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZFYEUjp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIL1VzZXJzL3N1cHJhYmhhdHNpbmhhL0RvY3VtZW50cy9Qcm9qZWN0cy9NaXNjbGwvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUgfD/okHbMcSQdS/j+Ce1N0o3xso=
+external apis:
+0 items
+source infos:
+4 items
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/exmple/app/fibo_app.scala -> 
+AAAAAAAAAAA=
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/ambiata_task.scala -> 
+AAAABAAAAQAAAE0AqyAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgbnVsbF90ZW1wX3JtX3VkZiA9IHVkZigoY29sMTpJbnRlZ2VyLGNvbDI6U3RyaW5nKSA9PiBpZiAoKGNvbDEgPT0gIm51bGwiIHx8IGNvbDEgPT0gbnVsbCB8fCBjb2wxID09IDApICYmIChjb2wyID09ICJBVSIpKSBtZWFuX3RlbXBfYXUgZWxzZQEAABIbAQAAAF8BAF8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAWi9Vc2Vycy9zdXByYWJoYXRzaW5oYS9Eb2N1bWVudHMvUHJvamVjdHMvTWlzY2xsL3NyYy9tYWluL3NjYWxhL3ByYWN0aWNlL2FtYmlhdGFfdGFzay5zY2FsYQEAWi9Vc2Vycy9zdXByYWJoYXRzaW5oYS9Eb2N1bWVudHMvUHJvamVjdHMvTWlzY2xsL3NyYy9tYWluL3NjYWxhL3ByYWN0aWNlL2FtYmlhdGFfdGFzay5zY2FsYQBPY29tcGFyaW5nIHZhbHVlcyBvZiB0eXBlcyBJbnRlZ2VyIGFuZCBTdHJpbmcgdXNpbmcgYD09JyB3aWxsIGFsd2F5cyB5aWVsZCBmYWxzZQEAAAEAAABOAKsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKChjb2wxID09ICJudWxsIiB8fCBjb2wxID09IG51bGwgfHwgY29sMSA9PSAwKSAmJiAoY29sMiA9PSAiRlIiKSkgbWVhbl90ZW1wX2ZyIGVsc2UBAAASxwEAAABfAQBfICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAFovVXNlcnMvc3VwcmFiaGF0c2luaGEvRG9jdW1lbnRzL1Byb2plY3RzL01pc2NsbC9zcmMvbWFpbi9zY2FsYS9wcmFjdGljZS9hbWJpYXRhX3Rhc2suc2NhbGEBAFovVXNlcnMvc3VwcmFiaGF0c2luaGEvRG9jdW1lbnRzL1Byb2plY3RzL01pc2NsbC9zcmMvbWFpbi9zY2FsYS9wcmFjdGljZS9hbWJpYXRhX3Rhc2suc2NhbGEAT2NvbXBhcmluZyB2YWx1ZXMgb2YgdHlwZXMgSW50ZWdlciBhbmQgU3RyaW5nIHVzaW5nIGA9PScgd2lsbCBhbHdheXMgeWllbGQgZmFsc2UBAAABAAAATwCsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgoY29sMSA9PSAibnVsbCIgfHwgY29sMSA9PSBudWxsIHx8IGNvbDEgPT0gMCkgJiYgKGNvbDIgPT0gIlVTIikpIG1lYW5fdGVtcF91cyBlbHNlIAEAABNzAQAAAF8BAF8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAWi9Vc2Vycy9zdXByYWJoYXRzaW5oYS9Eb2N1bWVudHMvUHJvamVjdHMvTWlzY2xsL3NyYy9tYWluL3NjYWxhL3ByYWN0aWNlL2FtYmlhdGFfdGFzay5zY2FsYQEAWi9Vc2Vycy9zdXByYWJoYXRzaW5oYS9Eb2N1bWVudHMvUHJvamVjdHMvTWlzY2xsL3NyYy9tYWluL3NjYWxhL3ByYWN0aWNlL2FtYmlhdGFfdGFzay5zY2FsYQBPY29tcGFyaW5nIHZhbHVlcyBvZiB0eXBlcyBJbnRlZ2VyIGFuZCBTdHJpbmcgdXNpbmcgYD09JyB3aWxsIGFsd2F5cyB5aWVsZCBmYWxzZQEAAAEAAABQAQ4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKChjb2wxID09ICJudWxsIiB8fCBjb2wxID09IG51bGwgfHwgY29sMSA9PSAwKSAmJiAoY29sMiA9PSAiT1RIIikpIG1lYW5fdGVtcF9vdGggZWxzZSAoY29sMSAtIDApKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAAAUIAEAAABfAQBfICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAFovVXNlcnMvc3VwcmFiaGF0c2luaGEvRG9jdW1lbnRzL1Byb2plY3RzL01pc2NsbC9zcmMvbWFpbi9zY2FsYS9wcmFjdGljZS9hbWJpYXRhX3Rhc2suc2NhbGEBAFovVXNlcnMvc3VwcmFiaGF0c2luaGEvRG9jdW1lbnRzL1Byb2plY3RzL01pc2NsbC9zcmMvbWFpbi9zY2FsYS9wcmFjdGljZS9hbWJpYXRhX3Rhc2suc2NhbGEAT2NvbXBhcmluZyB2YWx1ZXMgb2YgdHlwZXMgSW50ZWdlciBhbmQgU3RyaW5nIHVzaW5nIGA9PScgd2lsbCBhbHdheXMgeWllbGQgZmFsc2UBAAAAAA==
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/fibo.scala -> 
+AAAAAAAAAAA=
+/Users/suprabhatsinha/Documents/Projects/Miscll/src/main/scala/practice/read_parquet.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZFYEUjp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9zdXByYWJoYXRzaW5oYS9Eb2N1bWVudHMvUHJvamVjdHMvTWlzY2xsL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS8=
